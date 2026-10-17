@@ -160,3 +160,5 @@ C:\CPOO\EJLOGIN\LoginConsola\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Di
 C:\CPOO\EJLOGIN\LoginConsola\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
 C:\CPOO\EJLOGIN\LoginConsola\obj\Debug\net10.0\LoginConsola.csproj.AssemblyReference.cache
 C:\CPOO\EJLOGIN\LoginConsola\obj\Debug\net10.0\LoginCon.3F6F9A44.Up2Date
+C:\CPOO\EJLOGIN\LoginConsola\obj\Debug\net10.0\LoginConsola.sourcelink.json
+C:\CPOO\EJLOGIN\LoginConsola\bin\Debug\net10.0\BCrypt-Net-Next.dll
